@@ -30,6 +30,9 @@ const styles = StyleSheet.create({
    container: {
       paddingVertical: 10,
       paddingHorizontal: 20,
+      backgroundColor: "#FFFFFF",
+      borderBottomColor: "#333333",
+      borderBottomWidth: 0.4
    },
    row: {
       display: 'flex',
@@ -64,7 +67,8 @@ const styles = StyleSheet.create({
    alignItems: 'center',
    paddingHorizontal: 12,
    paddingVertical: 4,
-   gap: 10
+   gap: 10,
+   marginBottom: 10
   },
   input: {
    fontFamily: 'Inter',
