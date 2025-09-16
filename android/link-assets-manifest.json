@@ -2,8 +2,88 @@
   "migIndex": 1,
   "data": [
     {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "5d67abb11866104e5c784346fb371063f5e71a74"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Italic.ttf",
+      "sha1": "7a7161d7dd766c5b0bb2eae647cf5235fb5f6a3c"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "c0f1ee383ef09b42b631eacbf97e80cec56d55ee"
+    },
+    {
+      "path": "src/assets/fonts/Inter.ttf",
+      "sha1": "4bef187cdaa79cbbcfc2ea5653fcb2c8fde664bb"
+    },
+    {
       "path": "src/assets/fonts/Italiana-Regular.ttf",
       "sha1": "e10f8b2b90e4e72c4f4fc2e7ddff58198756100d"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-Black.ttf",
+      "sha1": "679f930e32f4fa64c04bf1962f52895ddf6e7553"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-BlackItalic.ttf",
+      "sha1": "f030e15c133667aef4dd3d364f3841cda6712ac2"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-BoldItalic.ttf",
+      "sha1": "421a34e4d4daa6852fe3356e5ad2e4ace459cf5e"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-ExtraBold.ttf",
+      "sha1": "d0d97a43b29052e2beeafc853403375aed300653"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-ExtraBoldItalic.ttf",
+      "sha1": "c7f17e9391416b34e577633ff1484c7116d9fb8f"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-ExtraLight.ttf",
+      "sha1": "f5f8f82a10dc62d8c409652c35d7e56577729e25"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-ExtraLightItalic.ttf",
+      "sha1": "576a5d847ff609e5c9a41df631d2b1e279184700"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-Italic.ttf",
+      "sha1": "f5f5f45aa2734e4940889b9e0d3f47c7e2854b5f"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-Light.ttf",
+      "sha1": "d9a7a114754adeccd1852c2eae7f3f8e0ece1719"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-LightItalic.ttf",
+      "sha1": "ab17a4fbe1b17aa5415a72b6df4bfa40c01b6689"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-MediumItalic.ttf",
+      "sha1": "657f50d6d079722284b07332cbad5b2738f6a1b2"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-Regular.ttf",
+      "sha1": "236dec5e7d0c08f3221a64281d8acd324149cb8b"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-SemiBold.ttf",
+      "sha1": "13f263b60ce4b5cbe0dcb0c4991d542d24b8a910"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-SemiBoldItalic.ttf",
+      "sha1": "14d586046cc9d08607a09fc8341a313bdf692649"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-Thin.ttf",
+      "sha1": "2bac95526770958f815eb31c742cb1cb066d33d2"
+    },
+    {
+      "path": "src/assets/fonts/static/InterTight-ThinItalic.ttf",
+      "sha1": "e8c654e178eb59c57e3ec546a35e4cb45485440f"
     }
   ]
 }
