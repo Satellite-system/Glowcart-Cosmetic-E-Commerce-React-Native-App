@@ -10,6 +10,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 npx @react-native-community/cli@latest init Glowcart
 ```
 
+## Link New Assets/Fonts
+
+```sh
+npx react-native-asset
+```
+
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
